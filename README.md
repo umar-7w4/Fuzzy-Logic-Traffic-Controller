@@ -168,3 +168,10 @@ For further assistance or to report issues, please contact:
 ## Future Work
 
 Future research could explore the scalability of this approach in varied urban settings and integrate it with other smart transportation technologies. Testing in real-world scenarios could further validate the system's effectiveness.
+
+
+### License
+
+```
+This project is licensed under the @2024 Umar Mohammad
+```
