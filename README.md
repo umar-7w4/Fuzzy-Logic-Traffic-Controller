@@ -168,10 +168,3 @@ For further assistance or to report issues, please contact:
 ## Future Work
 
 Future research could explore the scalability of this approach in varied urban settings and integrate it with other smart transportation technologies. Testing in real-world scenarios could further validate the system's effectiveness.
-
----
-
-This project represents a significant step forward in intelligent transportation systems, aiming to reduce congestion, improve emergency response times, and enhance overall traffic management through the use of fuzzy logic.
-```
-
-This `README.md` file is structured so that all sections are at the same level, following the format you requested.
